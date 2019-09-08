@@ -7,6 +7,9 @@ inputter
 + Email: zxc110888asd@gmail.com
 
 ## 安裝
+```bash
+npm install https://github.com/floatflower/inputter.git --save
+```
 
 ## 使用說明
 ```javascript
